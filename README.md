@@ -1,5 +1,18 @@
 # Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data
 
+This repository contains the code for our paper: https://arxiv.org/abs/2110.03866v1. If
+you use this code, please cite:
+
+```
+@article{kurniawan2021b,
+  title = {Unsupervised {{Cross}}-{{Lingual Transfer}} of {{Structured Predictors}} without {{Source Data}}},
+  author = {Kurniawan, Kemal and Frermann, Lea and Schulz, Philip and Cohn, Trevor},
+  year = {2021},
+  month = oct,
+  url = {https://arxiv.org/abs/2110.03866v1},
+}
+```
+
 ## Installing requirements
 
 Using conda package manager:
