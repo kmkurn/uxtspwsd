@@ -1,6 +1,6 @@
 # Unsupervised Cross-Lingual Transfer of Structured Predictors without Source Data
 
-This repository contains the code for our paper: https://arxiv.org/abs/2110.03866v1. If
+This repository contains the code for our paper: https://arxiv.org/abs/2110.03866. If
 you use this code, please cite:
 
 ```
@@ -9,7 +9,7 @@ you use this code, please cite:
   author = {Kurniawan, Kemal and Frermann, Lea and Schulz, Philip and Cohn, Trevor},
   year = {2021},
   month = oct,
-  url = {https://arxiv.org/abs/2110.03866v1},
+  url = {https://arxiv.org/abs/2110.03866},
 }
 ```
 
